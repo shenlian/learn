@@ -1,3 +1,3 @@
-machine_learn/data/
+machine_learn/data/*
 *.swp
 *~
